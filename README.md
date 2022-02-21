@@ -1,3 +1,3 @@
 # Responsive-Barcode-Design
 
-### Built using only HTML and CSS
+### Responsive barcode design Built using only HTML and CSS
